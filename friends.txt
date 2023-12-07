@@ -1,0 +1,12 @@
+kifayat:khan
+kifayat:king
+kifayat:mukhtiar
+kamran:king
+khan:ahsan
+iqram:ahsan
+king:khan
+aslam:kamran
+haseeb:kamran
+mukhtiar:iqram
+kifayat:haseeb
+kifayat:kamran

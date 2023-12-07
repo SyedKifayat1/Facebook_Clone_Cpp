@@ -1,0 +1,11 @@
+kifayat:12345
+khan:12345
+king:1234
+kamran:1234
+aslam:1234
+iqram:1234
+mukhtiar:1234
+haseeb:1234
+ahsan:1234
+*:6
+t:m

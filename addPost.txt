@@ -1,0 +1,4 @@
+kifayat:This is DSA Project,1
+iqram:Do you know about DSA?,2
+kifayat:helo!,0
+kifayat:Hello Hello,0
